@@ -4,7 +4,7 @@
 
 ### UX Designer
 
-I focus on clear paths, real user behaviour, and sites people can actually use.
+I like making digital things easier to use — clear paths, honest content, and sites that work on a phone.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-micah.digitale--tech.com-111111?style=for-the-badge)](https://micah.digitale-tech.com/)
 [![GitHub](https://img.shields.io/badge/Code-micah--portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/micah-masuka/micah-portfolio)
@@ -12,20 +12,15 @@ I focus on clear paths, real user behaviour, and sites people can actually use.
 
 </div>
 
-## What I do
+I design and build live websites for real businesses. Lately that has meant restructuring messy information architecture, running surveys before a redesign, and designing for a shop-floor kiosk, not only marketing pages.
 
-- Design and ship live websites for real businesses
-- Restructure information architecture so people can find services, work, and contact
-- Run UX research (surveys, analytics) before and after launch
-- Design interaction for screens that are not just marketing sites
+## Work
 
-## Selected work
-
-- **[Portfolio](https://micah.digitale-tech.com/)** — [source on GitHub](https://github.com/micah-masuka/micah-portfolio)
-- **[Logos Publicity](https://micah.digitale-tech.com/case-studies/logos-publicity)** — agency website restructure (internship)
+- **[Portfolio](https://micah.digitale-tech.com/)** — case studies · [source](https://github.com/micah-masuka/micah-portfolio)
+- **[Logos Publicity](https://micah.digitale-tech.com/case-studies/logos-publicity)** — agency site restructure (internship)
 - **[Alfresco The Bakery](https://micah.digitale-tech.com/case-studies/alfresco-bakery)** — live client website
 - **[Verandah Café](https://micah.digitale-tech.com/case-studies/verandah-cafe)** — live client website
-- **[Sanex](https://micah.digitale-tech.com/case-studies/sanex)** — retail kiosk interaction design (password-protected)
+- **[Sanex](https://micah.digitale-tech.com/case-studies/sanex)** — retail kiosk · password-protected write-up
 
 ## UX & research
 
@@ -59,10 +54,7 @@ I focus on clear paths, real user behaviour, and sites people can actually use.
 ![Google_Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 
-## Currently
-
-- B.S. Design for User Experience, Lesley University (December 2026)
-- Recently interned at Logos Publicity (Mauritius)
+Finishing a B.S. in Design for User Experience at Lesley University (December 2026). Internship at Logos Publicity in Mauritius.
 
 📍 Curepipe, Mauritius  
 ✉️ [masukamicah@gmail.com](mailto:masukamicah@gmail.com)
