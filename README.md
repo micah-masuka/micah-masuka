@@ -22,6 +22,15 @@ I design and build live websites for real businesses. Lately that has meant rest
 - **[Verandah Café](https://micah.digitale-tech.com/case-studies/verandah-cafe)** — live client website
 - **[Sanex](https://micah.digitale-tech.com/case-studies/sanex)** — retail kiosk · password-protected write-up
 
+## Learning
+
+Short notes from things I am building.
+
+- **[Password-locked pages](https://micah-masuka.github.io/Learning/password-locked-section/)** — how I gated a confidential case study
+- **[UX quiz](https://micah-masuka.github.io/Learning/ux-quiz/)** — six questions, two minutes
+
+Source: [github.com/micah-masuka/Learning](https://github.com/micah-masuka/Learning)
+
 ## UX & research
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
