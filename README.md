@@ -21,6 +21,7 @@ I design and build live websites for real businesses. Lately that has meant rest
 - **[Alfresco The Bakery](https://micah.digitale-tech.com/case-studies/alfresco-bakery)** — live client website
 - **[Verandah Café](https://micah.digitale-tech.com/case-studies/verandah-cafe)** — live client website
 - **[Sanex](https://micah.digitale-tech.com/case-studies/sanex)** — retail kiosk · password-protected write-up
+- **[Free website templates](https://github.com/micah-masuka/free-website-templates)** — 12 HTML/CSS templates · [preview](https://micah-masuka.github.io/free-website-templates/)
 
 ## Learning
 
