@@ -56,5 +56,5 @@ I design and build live websites for real businesses. Lately that has meant rest
 
 Finishing a B.S. in Design for User Experience at Lesley University (December 2026). Internship at Logos Publicity in Mauritius.
 
-📍 Curepipe, Mauritius  
+📍 Bulawayo, Zimbabwe  
 ✉️ [masukamicah@gmail.com](mailto:masukamicah@gmail.com)
